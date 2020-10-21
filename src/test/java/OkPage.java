@@ -1,5 +1,3 @@
-import com.codeborne.selenide.SelenideElement;
-import org.apache.hc.core5.util.Asserts;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 import org.openqa.selenium.By;
